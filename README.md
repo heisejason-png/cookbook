@@ -107,3 +107,4 @@ See the [Contribution Guide](./Contribution.md).
 - [Documentation](https://fireworks.ai/docs)
 - [Discord](https://discord.gg/9nKGzdCk)
 - [Open an issue](https://github.com/fw-ai-external/cookbook/issues/new)
+Created by Jason Heise Owned by Jason Heise heisejason-png Giters https://www.facebook.com Owned by Mark Zuckerberg 
